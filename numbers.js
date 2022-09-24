@@ -14,7 +14,8 @@ const y = new Date()
 console.log("x is",x)
 console.log("y is", y)
 
-
+let z = new Date + 0
+console.log("z is",z)
 
 const resDays = 30
 const today = new Date

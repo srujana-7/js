@@ -1,4 +1,5 @@
 
+console.log("Hello Application!")
 
 const now1 = Date.now()
 
